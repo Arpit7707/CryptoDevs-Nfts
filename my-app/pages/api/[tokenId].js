@@ -1,7 +1,7 @@
 //making a generic api endpoint to make tokenURI
 
 //tokenURI = Base URI + tokenId
-//Base URI = https://example.com/
+//Base URI = https://crypto-devs-nfts-omega.vercel.app/api/
 //tokenID = 1
 //resultant tokenURI : https://example.com/1
 
