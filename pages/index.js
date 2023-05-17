@@ -306,7 +306,8 @@ export default function Home() {
       return (
         <div className={styles.division}>
           <span className={styles.description}>
-            Presale has started. If you are whitelisted, you can mint CryptoDev
+            Presale has started. If you are whitelisted, you can mint
+            Care-Protocol
           </span>
 
           <button className={styles.button} onClick={presaleMint}>
@@ -339,7 +340,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
+          <h1 className={styles.title}>Welcome to Care Protocol NFT!</h1>
           <div className={styles.description}>
             Its an NFT collection for getting access to Care-Proocol.
           </div>
